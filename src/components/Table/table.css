@@ -1,0 +1,26 @@
+/* table.css */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table td {
+  padding: 8px;
+}
+
+.table tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.table-spacing {
+  margin-right: 10px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
